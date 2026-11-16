@@ -50,3 +50,6 @@ Desktop.ini
 $RECYCLE.BIN/
 .DS_Store
 
+# Sandboxes & Workspaces
+deepagents_lab/workspace/
+
